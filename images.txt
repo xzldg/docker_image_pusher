@@ -1,5 +1,6 @@
 alpine
 
+linuxserver/homeassistant
 linuxserver/qbittorrent
 linuxserver/transmission
 linuxserver/syncthing
