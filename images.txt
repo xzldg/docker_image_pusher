@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 alpine
+jc21/nginx-proxy-manager
