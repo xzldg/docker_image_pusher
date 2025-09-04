@@ -6,6 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 alpine
+jeessy/ddns-go
 jc21/nginx-proxy-manager
 lscr.io/linuxserver/qbittorrent
 lscr.io/linuxserver/syncthing
