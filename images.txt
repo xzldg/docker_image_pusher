@@ -11,3 +11,4 @@ jc21/nginx-proxy-manager
 lscr.io/linuxserver/qbittorrent
 lscr.io/linuxserver/syncthing
 vaultwarden/server
+antonyleons/ward
