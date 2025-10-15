@@ -8,7 +8,7 @@
 alpine
 jeessy/ddns-go
 jc21/nginx-proxy-manager
-lscr.io/linuxserver/qbittorrent
+linuxserver/qbittorrent:4.3.9
 lscr.io/linuxserver/syncthing
 lscr.io/linuxserver/jellyfin
 vaultwarden/server
