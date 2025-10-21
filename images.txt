@@ -13,4 +13,3 @@ lscr.io/linuxserver/syncthing
 lscr.io/linuxserver/jellyfin
 vaultwarden/server
 antonyleons/ward
-gdy666/lucky
