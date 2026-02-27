@@ -14,3 +14,4 @@ lscr.io/linuxserver/syncthing
 lscr.io/linuxserver/jellyfin
 vaultwarden/server
 antonyleons/ward
+
