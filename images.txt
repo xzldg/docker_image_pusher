@@ -13,6 +13,7 @@ linuxserver/qbittorrent
 linuxserver/syncthing
 linuxserver/jellyfin
 linuxserver/homeassistant
+linuxserver/transmission
 vaultwarden/server
 antonyleons/ward
 rustdesk/rustdesk-server
